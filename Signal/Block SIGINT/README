@@ -1,0 +1,1 @@
+Viết chương trình block SIGINT, sau đó check trong số signal pending có SIGINT không, nếu có thì thoát chương trình.

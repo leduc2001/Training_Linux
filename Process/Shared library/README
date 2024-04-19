@@ -1,0 +1,1 @@
+Viết 1 thư viện rồi build thành shared library, shared lib được copy vào thư mục /usr/lib. Sau đó viết 1 chương trình C sử dụng shared lib đó.

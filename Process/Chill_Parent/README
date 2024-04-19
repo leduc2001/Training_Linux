@@ -1,0 +1,1 @@
+Viết 1 chương trình C trong đó tiến trình con mở 1 file bất kỳ, nếu mở thành công trình return 0 cho tiến trình cha, nếu lỗi thì return -1. Dùng terminal để chạy và echo vào biến $ để đọc kết quả trả về
