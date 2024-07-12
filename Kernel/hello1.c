@@ -1,7 +1,7 @@
 #include <linux/module.h>
 #include <linux/kernel.h>
 
-MODULE_LICENSE("GPL")
+MODULE_LICENSE("GPL");
 MODULE_AUTHOR("DucLH");
 MODULE_DESCRIPTION("This is hello module 1");
 MODULE_VERSION("1.0.0");
