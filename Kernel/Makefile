@@ -10,6 +10,6 @@ insmod:
 	sudo insmod hello1.ko
 	sudo insmod hello2.ko
 
-rmmod
+rmmod:
 	sudo rmmod hello2
 	sudo rmmod hello1 
